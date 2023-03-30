@@ -5,10 +5,10 @@ University of Copenhagen
 
 ### Task Description  
 The task has a simple design with 4 levels:  
-- Level 1 has 2 word letters  
-- Level 2 has 3 word letters  
-- Level 3 has 4 word letters  
-- Level 4 has 5 word letters  
+- Level 1 has 2 letters words  
+- Level 2 has 3 letters words  
+- Level 3 has 4 letters words
+- Level 4 has 5 letters words 
 
 Each level has 4 words.  
 The children should read the word aloud when they see it on the screen.  
